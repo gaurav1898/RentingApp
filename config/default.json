@@ -1,0 +1,9 @@
+{
+    "App":{
+        "SECRET_CODE" : "rent_app",
+        "PORT" : 5055,
+        "SALT_ROUNDS": 10,
+        "TokenExpiresIn":6048000,
+        "AutoGeneratePasswordLength":7 
+    }
+}
